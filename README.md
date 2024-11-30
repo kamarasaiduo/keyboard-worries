@@ -1,5 +1,5 @@
 # keyboard-worries
-Saiduo Kamara
+Saiduo Kamara \n
 Zechariah Bayoh
 Amara Sesay
 Serinu Johnson Mahmoud
